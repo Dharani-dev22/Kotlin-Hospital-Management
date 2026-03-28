@@ -1,5 +1,7 @@
 # Kotlin Hospital Management System
 
+🚀 **[Click here to run the application live in your browser!](https://replit.com/@dyyd288/Kotlin-Hospital-Management)**
+
 A beginner-friendly, console-based Hospital Management application written in Kotlin. This project demonstrates core object-oriented programming concepts, allowing users to easily admit patients, manage their records, and handle the discharge process.
 
 ## Features
@@ -32,4 +34,4 @@ To run this project on your local machine, you will need to have the following i
    `java -jar hospital.jar`
 
 ---
-*Developed by Dharani*
+*Developed by Pondharani*
